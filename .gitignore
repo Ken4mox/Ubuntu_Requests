@@ -1,0 +1,4 @@
+__pycache__/
+.venv/
+Fetched_Images/*
+!Fetched_Images/manifest_sha256.txt
